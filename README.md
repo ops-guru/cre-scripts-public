@@ -9,7 +9,7 @@ aws configure
 Run the script and save the output:
 ```bash
 $ python3 ./og_cre_aws.py 
-AWS Account ID: 390148573654
+AWS Account ID: 1234
 AWS Account Name: lab-account
 ==========================
 Total number of EC2 instances: 2

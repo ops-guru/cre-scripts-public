@@ -1,7 +1,7 @@
 #
 # CRE AWS Inventory script
 # Author: paul@opsguru.io (Paul Podolny)
-# Purpose: Scan customer AWS footprint during CSA or PSA phase
+# Purpose: Scan AWS footprint during CSA or PSA phase
 
 import boto3
 import datetime
