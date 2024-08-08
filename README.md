@@ -1,1 +1,1 @@
-#Invetory collection scripts for CRE
+Invetory collection scripts for CRE
